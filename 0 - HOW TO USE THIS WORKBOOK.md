@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "How to Use This Workbook"
+title: How to Use This Workbook
+nav_order: 2
 ---
 
 # HOW TO USE THIS WORKBOOK

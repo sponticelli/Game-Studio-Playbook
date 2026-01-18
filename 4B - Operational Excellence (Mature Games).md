@@ -1,7 +1,10 @@
 ---
 layout: default
-title: "Operational Excellence (Mature Games)"
+title: "4B: Operational Excellence"
+nav_order: 6
+parent: Track B - Mature Games
 ---
+
 # Operational Excellence (Mature Games)
 
 This track focuses on optimizing existing execution processes for sustained live operations with an emphasis on efficiency, reliability, and continuous improvement.

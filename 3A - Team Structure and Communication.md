@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Team Structure and Communication"
+title: "3A: Team Structure"
+nav_order: 5
+parent: Track A - Greenfield
 ---
 
 # Team Structure & Communication

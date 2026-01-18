@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Team Structure for Live Ops (Mature Games)"
+title: "3B: Live Ops Team"
+nav_order: 5
+parent: Track B - Mature Games
 ---
 
 # Team Structure for Live Ops (Mature Games)

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Scope and Change Management (Mature Games)"
+title: "5B: Scope Management"
+nav_order: 7
+parent: Track B - Mature Games
 ---
 
 # Scope & Change Management (Mature Games)

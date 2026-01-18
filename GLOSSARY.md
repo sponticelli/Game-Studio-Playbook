@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Glossary"
+title: Glossary
+nav_order: 99
 ---
 
 # Glossary of Terms

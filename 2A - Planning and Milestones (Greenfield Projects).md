@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Planning and Milestones (Greenfield Projects)"
+title: "2A: Planning & Milestones"
+nav_order: 4
+parent: Track A - Greenfield
 ---
 
 # Planning & Milestones

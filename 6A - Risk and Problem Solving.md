@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Risk and Problem Solving"
+title: "6A: Risk & Problem Solving"
+nav_order: 8
+parent: Track A - Greenfield
 ---
 
 # Risk & Problem Solving

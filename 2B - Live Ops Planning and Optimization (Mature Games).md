@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Live Ops Planning and Optimization (Mature Games)"
+title: "2B: Live Ops Planning"
+nav_order: 4
+parent: Track B - Mature Games
 ---
-
 # Live Ops Planning & Optimization (Mature Games)
 
 ## How to Use Track B

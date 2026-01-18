@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Game Health Assessment and Realignment"
+title: "1B: Health Assessment"
+nav_order: 3
+parent: Track B - Mature Games
 ---
 
 # Game Health Assessment & Realignment

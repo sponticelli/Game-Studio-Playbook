@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Project Foundation & Vision Alignment"
+title: "1A: Project Foundation"
+nav_order: 3
+parent: Track A - Greenfield
 ---
 
 # Project Foundation & Vision Alignment

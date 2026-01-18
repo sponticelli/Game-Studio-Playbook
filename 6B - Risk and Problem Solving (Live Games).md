@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Risk and Problem Solving (Live Games)"
+title: "6B: Risk (Live Games)"
+nav_order: 8
+parent: Track B - Mature Games
 ---
 
 # Risk & Problem Solving (Live Games)

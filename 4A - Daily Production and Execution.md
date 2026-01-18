@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Daily Production and Execution"
+title: "4A: Daily Production"
+nav_order: 6
+parent: Track A - Greenfield
 ---
 
 # Daily Production & Execution

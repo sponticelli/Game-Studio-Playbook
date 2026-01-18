@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Launch and Growth"
+title: "7A: Launch & Growth"
+nav_order: 9
+parent: Track A - Greenfield
 ---
 
 # Launch and Growth

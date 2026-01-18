@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Scope and Change Management"
+title: "5A: Scope Management"
+nav_order: 7
+parent: Track A - Greenfield
 ---
 
 # Scope & Change Management

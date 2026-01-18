@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Launch, Live Ops and Growth (Live Games)"
+title: "7B: Live Ops & Growth"
+nav_order: 9
+parent: Track B - Mature Games
 ---
 
 # Launch, Live Ops and Growth (Live Games)
