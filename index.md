@@ -1,123 +1,59 @@
 ---
 layout: default
-title: "Game Studio Playbook"
+title: Home
+nav_order: 1
+description: "A comprehensive workbook for game development teams - frameworks, checklists, and templates to build your own studio playbook."
+permalink: /
 ---
 
-# Game Studio Playbook - Index
+# Game Studio Playbook
 
 > _"Process is what happens when you stop having to think about how you do things. A good process is invisible—it just makes the work flow."_
+{: .fs-5 .fw-300 }
+
+A comprehensive workbook for game development teams - frameworks, checklists, and templates to build your own studio playbook.
+{: .fs-6 .fw-300 }
+
+[Get Started](0%20-%20HOW%20TO%20USE%20THIS%20WORKBOOK/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View on GitHub](https://github.com/sponticelli/game-studio-playbook.github.io){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## 📚 Introduction
+## The Seven Blocks
 
-**[How to Use This Workbook](0%20-%20HOW%20TO%20USE%20THIS%20WORKBOOK/)**
-Start here to understand the dual-track system (Greenfield vs. Mature Games) and how to build your custom playbook.
+The workbook is organized into seven blocks, each with two tracks:
+- **Track A** — For greenfield projects (new games in development)
+- **Track B** — For mature games (1+ years of operational data)
 
----
-
-## 📖 The Seven Blocks
-
-### 🎯 Block 1: Foundation
-**Vision, business model, audience, success metrics, scope**
-
-- **Track A (Greenfield):** [Project Foundation & Vision Alignment](1A%20-%20Project%20Foundation%20%26%20Vision%20Alignment/)
-- **Track B (Mature Game):** [Game Health Assessment and Realignment](1B%20-%20Game%20Health%20Assessment%20and%20Realignment/)
-
----
-
-### 📋 Block 2: Planning
-**Milestones, prioritization, estimation, calendars**
-
-- **Track A (Greenfield):** [Planning and Milestones (Greenfield Projects)](2A%20-%20Planning%20and%20Milestones%20%28Greenfield%20Projects%29/)
-- **Track B (Mature Game):** [Live Ops Planning and Optimization (Mature Games)](2B%20-%20Live%20Ops%20Planning%20and%20Optimization%20%28Mature%20Games%29/)
+| Block | Focus | Track A | Track B |
+|:------|:------|:--------|:--------|
+| **1. Foundation** | Vision, business model, audience | [Project Foundation](1A%20-%20Project%20Foundation%20%26%20Vision%20Alignment/) | [Health Assessment](1B%20-%20Game%20Health%20Assessment%20and%20Realignment/) |
+| **2. Planning** | Milestones, estimation, calendars | [Planning & Milestones](2A%20-%20Planning%20and%20Milestones%20%28Greenfield%20Projects%29/) | [Live Ops Planning](2B%20-%20Live%20Ops%20Planning%20and%20Optimization%20%28Mature%20Games%29/) |
+| **3. Team** | Roles, communication, handoffs | [Team Structure](3A%20-%20Team%20Structure%20and%20Communication/) | [Live Ops Team](3B%20-%20Team%20Structure%20for%20Live%20Ops%20%28Mature%20Games%29/) |
+| **4. Production** | Definition of done, task management | [Daily Production](4A%20-%20Daily%20Production%20and%20Execution/) | [Operational Excellence](4B%20-%20Operational%20Excellence%20%28Mature%20Games%29/) |
+| **5. Scope** | Change control, feature triage | [Scope Management](5A%20-%20Scope%20and%20Change%20Management/) | [Scope (Mature)](5B%20-%20Scope%20and%20Change%20Management%20%28Mature%20Games%29/) |
+| **6. Risk** | Risk registers, incident response | [Risk & Problem Solving](6A%20-%20Risk%20and%20Problem%20Solving/) | [Risk (Live Games)](6B%20-%20Risk%20and%20Problem%20Solving%20%28Live%20Games%29/) |
+| **7. Launch** | Store optimization, events, growth | [Launch & Growth](7A%20-%20Launch%20and%20Growth/) | [Live Ops & Growth](7B%20-%20Launch%2C%20Live%20Ops%20and%20Growth%20%28Live%20Games%29/) |
 
 ---
 
-### 👥 Block 3: Team Structure
-**Roles, communication, handoffs, knowledge management**
-
-- **Track A (Greenfield):** [Team Structure and Communication](3A%20-%20Team%20Structure%20and%20Communication/)
-- **Track B (Mature Game):** [Team Structure for Live Ops (Mature Games)](3B%20-%20Team%20Structure%20for%20Live%20Ops%20%28Mature%20Games%29/)
-
----
-
-### ⚙️ Block 4: Daily Production
-**Definition of done, task management, build stability**
-
-- **Track A (Greenfield):** [Daily Production and Execution](4A%20-%20Daily%20Production%20and%20Execution/)
-- **Track B (Mature Game):** [Operational Excellence (Mature Games)](4B%20-%20Operational%20Excellence%20%28Mature%20Games%29/)
-
----
-
-### 🎚️ Block 5: Scope Management
-**Change control, feature triage, stakeholder management**
-
-- **Track A (Greenfield):** [Scope and Change Management](5A%20-%20Scope%20and%20Change%20Management/)
-- **Track B (Mature Game):** [Scope and Change Management (Mature Games)](5B%20-%20Scope%20and%20Change%20Management%20%28Mature%20Games%29/)
-
----
-
-### ⚠️ Block 6: Risk & Problem Solving
-**Risk registers, incident response, retrospectives**
-
-- **Track A (Greenfield):** [Risk and Problem Solving](6A%20-%20Risk%20and%20Problem%20Solving/)
-- **Track B (Mature Game):** [Risk and Problem Solving (Live Games)](6B%20-%20Risk%20and%20Problem%20Solving%20%28Live%20Games%29/)
-
----
-
-### 🚀 Block 7: Launch & Live Operations
-**Store optimization, event design, growth, sustainability**
-
-- **Track A (Greenfield):** [Launch and Growth](7A%20-%20Launch%20and%20Growth/)
-- **Track B (Mature Game):** [Launch, Live Ops and Growth (Live Games)](7B%20-%20Launch%2C%20Live%20Ops%20and%20Growth%20%28Live%20Games%29/)
-
----
-
-## 📖 Reference
-
-**[Glossary](GLOSSARY/)**
-Key terminology and definitions used throughout the playbook.
-
----
-
-## 🧭 Quick Navigation
-
-### Starting from Scratch?
-Follow **Track A** chapters in sequence:
-1. [1A: Project Foundation & Vision Alignment](1A%20-%20Project%20Foundation%20%26%20Vision%20Alignment/)
-2. [2A: Planning and Milestones](2A%20-%20Planning%20and%20Milestones%20%28Greenfield%20Projects%29/)
-3. [3A: Team Structure and Communication](3A%20-%20Team%20Structure%20and%20Communication/)
-4. [4A: Daily Production and Execution](4A%20-%20Daily%20Production%20and%20Execution/)
-5. [5A: Scope and Change Management](5A%20-%20Scope%20and%20Change%20Management/)
-6. [6A: Risk and Problem Solving](6A%20-%20Risk%20and%20Problem%20Solving/)
-7. [7A: Launch and Growth](7A%20-%20Launch%20and%20Growth/)
-
-### Working on a Live Game?
-Follow **Track B** chapters in sequence:
-1. [1B: Game Health Assessment and Realignment](1B%20-%20Game%20Health%20Assessment%20and%20Realignment/)
-2. [2B: Live Ops Planning and Optimization](2B%20-%20Live%20Ops%20Planning%20and%20Optimization%20%28Mature%20Games%29/)
-3. [3B: Team Structure for Live Ops](3B%20-%20Team%20Structure%20for%20Live%20Ops%20%28Mature%20Games%29/)
-4. [4B: Operational Excellence](4B%20-%20Operational%20Excellence%20%28Mature%20Games%29/)
-5. [5B: Scope and Change Management (Mature Games)](5B%20-%20Scope%20and%20Change%20Management%20%28Mature%20Games%29/)
-6. [6B: Risk and Problem Solving (Live Games)](6B%20-%20Risk%20and%20Problem%20Solving%20%28Live%20Games%29/)
-7. [7B: Launch, Live Ops and Growth (Live Games)](7B%20-%20Launch%2C%20Live%20Ops%20and%20Growth%20%28Live%20Games%29/)
+## Quick Start
 
 ### Need Targeted Help?
 
 | If your problem is... | Start with... |
-|---|---|
-| "We don't know what we're building" | [Block 1: Foundation](#-block-1-foundation) |
-| "We can't estimate or hit dates" | [Block 2: Planning](#-block-2-planning) |
-| "Communication is broken" | [Block 3: Team Structure](#-block-3-team-structure) |
-| "Quality keeps slipping" | [Block 4: Daily Production](#️-block-4-daily-production) |
-| "Scope keeps expanding" | [Block 5: Scope Management](#️-block-5-scope-management) |
-| "We're constantly firefighting" | [Block 6: Risk & Problem Solving](#️-block-6-risk--problem-solving) |
-| "Our live ops is chaotic" | [Block 7: Launch & Live Ops](#-block-7-launch--live-operations) |
+|:----------------------|:--------------|
+| "We don't know what we're building" | Block 1: Foundation |
+| "We can't estimate or hit dates" | Block 2: Planning |
+| "Communication is broken" | Block 3: Team Structure |
+| "Quality keeps slipping" | Block 4: Daily Production |
+| "Scope keeps expanding" | Block 5: Scope Management |
+| "We're constantly firefighting" | Block 6: Risk & Problem Solving |
+| "Our live ops is chaotic" | Block 7: Launch & Live Ops |
 
 ---
 
-## 📝 About This Playbook
+## About This Playbook
 
 This workbook provides frameworks, checklists, and templates for game development teams. It's designed to be:
 
